@@ -1,5 +1,9 @@
 # GameOfLifeProject
 
+<p align="center">
+ <img width="706" height="893" src="https://user-images.githubusercontent.com/82953710/120918110-f6154700-c6b2-11eb-9986-9549cc0c7ebf.png">
+</p>
+
 ## About project
 
 My application uses the idea and rules – Game of life, created by the British mathematician John Conway. The game is played on an board divided into square cells. 
